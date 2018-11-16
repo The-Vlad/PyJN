@@ -89,6 +89,6 @@ ENV/
 .ropeproject
 
 # Custom ignore list
-.vscode/
-UNet/DATA/
-Nums/DATA/
+.vscode/*
+UNet/DATA/*
+Nums/DATA/*
