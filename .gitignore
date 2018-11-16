@@ -89,5 +89,6 @@ ENV/
 .ropeproject
 
 # Custom ignore list
-Nums/DATA/Stored/storedData_MNIST_140000_COLAB.npz
-Nums/DATA/Stored/storedData_MNIST_140000.npz
+.vscode/
+UNet/DATA/
+Nums/DATA/
