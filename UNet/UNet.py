@@ -1,5 +1,4 @@
 # Build U-Net model
-
 def UNet(img_shape, out_ch=1, start_ch=64, depth=4, inc_rate=2., activation='relu', dropout=0.5, batchnorm=False, maxpool=True, upconv=True, residual=False):
     
     from keras import backend as K
